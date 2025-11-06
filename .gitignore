@@ -1,0 +1,17 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# macOS and Windows files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Local data
+sample_data/
+*.xlsx
+*.xls
